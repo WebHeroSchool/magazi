@@ -1,0 +1,13 @@
+body {
+  font-family: "Arial";
+  color: red;
+  }
+  p {
+  display: inline-block;
+  max-width: 25%;
+  text-align: justify;
+  }
+  table {
+  text-align: justify;
+  max-width: 50%;
+  }
