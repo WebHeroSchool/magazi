@@ -1,8 +1,9 @@
-body {
-  font-family: "Arial";
+header {
+  font-family: 'Roboto', sans-serif;
   color: red;
   }
   p {
+  font-family: 'Dosis', sans-serif;
   display: inline-block;
   max-width: 25%;
   text-align: justify;
@@ -10,4 +11,4 @@ body {
   table {
   text-align: justify;
   max-width: 50%;
-  }
+  } 
